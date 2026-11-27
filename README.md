@@ -4,7 +4,7 @@
 It provides a secure backend API for classification and can be extended with a frontend interface for user interaction.
 
 
-## 🚀 Project Structure
+##  Project Structure
 
 ### 🔹 Frontend
 - Simple HTML/JavaScript interface (optional, future scope).
